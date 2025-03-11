@@ -99,6 +99,9 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 ### Confusion Matrix
 
 ![alt text]({1C964C49-ABD3-4B0A-A606-347C271EA00F}.png)
+
+
+
 ![alt text]({0780C656-6CB5-4B91-B44E-4D07F03365BC}.png)
 
 ### Classification Report
