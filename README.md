@@ -41,7 +41,7 @@ Save the trained model, export it if needed, and deploy it for real-world use.
 
 ## PROGRAM
 
-### Name: Guru Raghav POnjeevith V
+### Name: Guru Raghav Ponjeevith V
 ### Register Number:212223220027.
 
 ```python
